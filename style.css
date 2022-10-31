@@ -1,0 +1,6 @@
+bg-image {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/038/134/041/medium/kael-ngu-20210305-marvel-venom-35-op.jpg?1622262405);
+    min-height: 70vh;
+    background-size: 100%;
+    object-fit: cover;
+}
